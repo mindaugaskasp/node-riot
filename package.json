@@ -1,0 +1,33 @@
+{
+  "name": "@mindaugaskasp/node-riot",
+  "version": "1.0.0",
+  "description": "riot games api integration package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindaugaskasp/node-riot.git"
+  },
+  "keywords": [
+    "riot",
+    "games",
+    "league",
+    "of",
+    "legends",
+    "api",
+    "riot",
+    "api"
+  ],
+  "author": "Mindaugas Kasparavičius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindaugaskasp/node-riot/issues"
+  },
+  "homepage": "https://github.com/mindaugaskasp/node-riot#readme",
+  "dependencies": {
+    "promised-io": "^0.3.5",
+    "superagent": "^4.1.0"
+  }
+}
