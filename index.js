@@ -1,1 +1,1 @@
-module.exports = require('riot');
+module.exports = require('./riot');
